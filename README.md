@@ -534,7 +534,7 @@ Características:
   </tr>
   <tr>
     <th colspan="2"></th>
-    <th style="text-align: center;"><img src="assets/competitors-logo/AutoService.png" alt="Logo" style="width: 150px;"></th>
+    <th style="text-align: center;"><img src="assets/competitors-logo/AutoService.jpeg" alt="Logo" style="width: 150px;"></th>
     <th style="text-align: center;"><img src="assets/competitors-logo/shopmonkey.png" alt="Competidor 1" style="width: 150px;"></th>
     <th style="text-align: center;"><img src="assets/competitors-logo/appTallerMecanico.jpg" alt="Competidor 2" style="width: 150px;"></th>
     <th style="text-align: center;"><img src="assets/competitors-logo/AutoLeap.png" alt="Competidor 3" style="width: 150px;"></th>
