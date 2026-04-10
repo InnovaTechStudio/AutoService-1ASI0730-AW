@@ -1048,6 +1048,25 @@ Características:
       background-color: var(--primary-color);
   }
   ```
+
+**JavaScript Conventions**
+Para la lógica del lado del cliente se adoptarán lineamientos orientados a la claridad, reutilización y mantenimiento del código.
+Se aplicarán las siguientes convenciones:
+- Uso de camelCase para variable y funciones.
+- Uso de PascalCase para clases y constructores.
+- Declaraciones de variables con const y let, evitando el uso de var.
+- Separación modular del código en archivos independientes según funcionalida.
+- Uso de addEventListener() en lugar de eventos inline.
+- Comentarios únicamente en lógica compleja o no evidente.
+- Nombres de funciones descriptivos y orientados a acciones.
+
+Ejemplo:
+``` JavaScript
+const submitButton = document.querySelector("#submit-button");
+function validateForm(){
+  return true;
+}
+```
 </p>
 #### 5.1.4. Software Deployment Configuration
 [Pendiente]
