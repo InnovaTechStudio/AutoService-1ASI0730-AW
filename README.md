@@ -288,7 +288,7 @@ Abril, 2026
       <tr>
         <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle; text-align: left;">
           <strong>Pillaca Gonzales, Andy Saúl</strong><br><br>
-          <i>Descripción pendiente...</i>
+          <i>Soy Andy Saúl Pillaca Gonzales, estudiante de la carrera de ingeniería de software. Poseo sólidos conocimientos en lenguajes de programación como C + + y python, además de experiencia en SQL, excel, mecanografía y Power BI. Mis habilidades incluyen trabajo en equipo, escucha activa, responsabilidad y puntualidad.</i>
         </td>
         <td style="padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;">
           <img src="assets/profiles/andy.png" alt="Andy Pillaca" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
