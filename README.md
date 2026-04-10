@@ -1089,6 +1089,24 @@ public class UserService
     }
 }
 ```
+
+**Gherkin Conventions**
+Para la definición de criterios de aceptación y pruebas funcionales se utilizará el lenguaje Gherkin, que sigue una estructura orientada al negocio.
+Las convenciones definidas son:
+- Uso obligatorio de la estructura Given-When-Then
+- Redacción en lenguaje comprensible para stakeholders no técnicos.
+- Escenarios con títulos claros y específicos.
+- Uso de Scenario Outline cuando existan múltiples casos similares.
+  
+Ejemplo:
+``` gherkin
+Feature: User Login
+
+Scenario: Sucessful login
+    Given the user is on the login page
+    When the user enters valid credential
+    Then the system should redirect to the dashboard
+```
 </p>
 
 #### 5.1.4. Software Deployment Configuration
