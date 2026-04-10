@@ -899,7 +899,42 @@ La plataforma permite a mecánicos y talleres gestionar clientes, vehículos, ó
 
 #### 2.2.2. Registro de entrevistas
 
-*Pendiente*
+
+
+**Entrevista 1: Tecnico Independiente**
+    <li>Nombre: Fray Diaz Palomino</li>
+    <li>Edad: 38</li>
+    <li>Residencia: Ayacucho, Huamanga</li>
+    <li>Ocupacion: Tecnico Mecanico Automotriz</li>
+    <img src="assets/screenshot-interviews/SCS-T1.png" alt="csc-t1" style="width: 750px;"><br>
+    link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQCOBVlE43D5S6A1sA4ninLyAe17muIzgfh4BnzvggW2xag?e=bawdDH" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQCOBVlE43D5S6A1sA4ninLyAe17muIzgfh4BnzvggW2xag?e=bawdDH</a>
+    <li>Inicio: 0:33</li>
+    <li>Duracion: 8:30</li>
+
+
+
+**Entrevista 2: Tecnico Independiente**
+    <li>Nombre: Gumercindo Ventura</li>
+    <li>Edad: 55</li>
+    <li>Residencia: Ayacucho, Huamanga - San Juan Bautista</li>
+    <li>Ocupacion: Tecnico Automotriz</li>
+    <img src="assets/screenshot-interviews/SCS-T2.png" alt="csc-t1" style="width: 750px;">
+     link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQC3R-wNkI7tQZ07-wGLrqBvAUckZJvae4x3Gvydyx-kgVk?e=MSpswt" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQCOBVlE43D5S6A1sA4ninLyAe17muIzgfh4BnzvggW2xag?e=bawdDH</a>
+    <li>Inicio: 0:38</li>
+    <li>Duracion: 5:29</li>
+
+
+**Entrevista 3: Entrevista Tecnico Independiente**
+    <li>Nombre: Antenor Ayala</li>
+    <li>Edad: 33</li>
+    <li>Residencia: Ayacucho, Huamanga</li>
+    <li>Ocupacion: Tecnico Mecanico Automotriz</li>
+    <img src="assets/screenshot-interviews/SCS-T3.png" alt="csc-t1" style="width: 750px;">
+     link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQCxbUZ3D94sQa4L_R0U-pTLAeS4IIX60VMV6GW0RGncMMA?e=mN7UdR" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQCOBVlE43D5S6A1sA4ninLyAe17muIzgfh4BnzvggW2xag?e=bawdDH</a>
+    <li>Inicio: 0:25</li>
+    <li>Duracion: 9:11 </li>
+
+  
 
 #### 2.2.3. Análisis de entrevistas
 
