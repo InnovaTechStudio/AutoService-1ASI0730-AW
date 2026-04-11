@@ -851,8 +851,99 @@ La plataforma permite a mecánicos y talleres gestionar clientes, vehículos, ó
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
-*Pendiente*
+<p align="justify">Nuestro producto adoptará una estrategia competitiva basada en la diferenciación a través de la transparencia del servicio y la integración del cliente en el proceso, respondiendo a las limitaciones actuales del mercado, donde predominan soluciones centradas únicamente en la gestión interna.</p>
+<ol>
+<li>Diferenciarnos mediante la transparencia del servicio
 
+  <p align="justify">Muchos sistemas actuales se enfocan en la gestión interna del taller, dejando de lado la experiencia del cliente y generando incertidumbre durante el proceso del servicio.
+  Para aprovechar esta oportunidad, AutoService se centrará en brindar visibilidad completa al cliente sobre el estado de su vehículo.</p>
+  <ul>
+    <li>Implementar seguimiento en tiempo real del vehículo</li>
+    <li>Mostrar estados claros del servicio (pendiente, en proceso, finalizado)</li>
+    <li>Visualizar trabajos realizados y costos asociados</li>
+    <li>Incorporar notificaciones automáticas al cliente</li>
+  </ul>
+</li>
+
+<li>Generar una experiencia simple e intuitiva para el usuario
+
+  <p align="justify">Algunas soluciones del mercado pueden resultar complejas o poco accesibles para usuarios con bajo nivel tecnológico, dificultando su adopción.
+  AutoService prioriza la facilidad de uso para garantizar una rápida implementación y aceptación.</p>
+  
+  <ul>
+  <li>Diseño de interfaz clara y amigable</li>
+  <li>Navegación sencilla y estructurada</li>
+  <li>Acceso rápido a funciones principales</li>
+  <li>Optimización para dispositivos móviles</li>
+  </ul>
+</li>
+
+<li>Facilitar la digitalización de talleres pequeños y medianos
+
+  <p align="justify">Muchos talleres enfrentan barreras para adoptar herramientas digitales debido a costos o complejidad.
+AutoService busca reducir estas barreras y fomentar la digitalización del sector.</p>
+  
+  <ul>
+  <li>Plan gratuito para nuevos usuarios</li>
+  <li>Planes escalables según el crecimiento del taller</li>
+  <li>Capacitación básica y guías de uso</li>
+  <li>Implementación rápida sin necesidad de conocimientos técnicos</li>
+  </ul>
+</li>
+
+
+<li>Aprovechar el crecimiento de la digitalización en el sector automotriz
+
+  <p align="justify">El mercado presenta una tendencia creciente hacia el uso de herramientas digitales para la gestión de negocios.
+AutoService se posiciona como una solución moderna alineada a esta transformación.</p>
+  
+  <ul>
+  <li>Promoción del uso de tecnología en talleres</li>
+  <li>Difusión en redes sociales y canales digitales</li>
+  <li>Demostraciones del sistema en entornos reales</li>
+  <li>Enfoque en beneficios como eficiencia y control</li>
+  </ul>
+</li>
+
+
+<li>Fortalecer la confianza del cliente final
+
+  <p align="justify">Uno de los principales problemas del sector es la desconfianza del cliente debido a la falta de información.
+Se busca transformar esta percepción mediante transparencia y comunicación.</p>
+  
+  <ul>
+  <li>Acceso del cliente al sistema mediante código único</li>
+  <li>Información clara y detallada del servicio</li>
+  <li>Reducción de dependencia de llamadas o mensajes</li>
+  <li>(Futuro) evidencia visual del trabajo realizado</li>
+  </ul>
+</li>
+
+<li>Diferenciarnos por el valor ofrecido y no solo por funcionalidades
+
+  <p align="justify">Más allá de ofrecer herramientas de gestión, AutoService se enfoca en brindar una experiencia completa tanto para el taller como para el cliente.</p>
+  
+  <ul>
+  <li>Integración del cliente en el proceso</li>
+  <li>Mejora de la comunicación entre ambas partes</li>
+  <li>Enfoque en confianza y transparencia</li>
+  <li>Evolución continua del sistema con nuevas funcionalidades</li>
+  </ul>
+</li>
+
+<li>Aprovechamiento de la baja digitalización en LATAM
+
+  Captar talleres que aún no usan sistemas digitales
+  
+  <ul>
+  <li>Campañas educativas (“digitaliza tu taller”)</li>
+  <li>Demostraciones prácticas</li>
+  <li>Uso de redes sociales y WhatsApp</li>
+
+  </ul>
+</li>
+
+</ol>
 ---
 
 ### 2.2. Entrevistas
@@ -901,40 +992,40 @@ La plataforma permite a mecánicos y talleres gestionar clientes, vehículos, ó
 
 
 
-**ENTREVISTA 1: Tecnico Independiente**
+**ENTREVISTA 1: Técnico Independiente**
     <li>Nombre: Fray Diaz Palomino</li>
     <li>Edad: 38</li>
     <li>Residencia: Ayacucho, Huamanga</li>
-    <li>Ocupacion: Tecnico Mecanico Automotriz</li>
+    <li>Ocupación: Técnico Mecánico Automotriz</li>
     <img src="assets/screenshot-interviews/SCS-T1.png" alt="csc-t1" style="width: 750px;"><br>
     Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQCOBVlE43D5S6A1sA4ninLyAe17muIzgfh4BnzvggW2xag?e=bawdDH" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/</a>
     <li>Inicio: 0:33</li>
-    <li>Duracion: 8:30</li>
+    <li>Duración: 8:30</li>
     <p align="justify"> Resumen: El entrevistado Fray Díaz Palomino, un técnico mecánico automotriz de 38 años que trabaja de manera independiente en Ayacucho desde aproximadamente el 2012. Describe su rutina diaria iniciando con la limpieza del taller y destacando la importancia del trato al cliente. Actualmente no utiliza ningún sistema digital ni registros formales para gestionar la información de clientes o vehículos, limitándose a comprobantes como boletas o facturas, lo que dificulta el seguimiento de mantenimientos. A pesar de ello, menciona no haber tenido problemas en la gestión ni en los diagnósticos, ya que trabaja de manera individualizada con cada vehículo. La comunicación con los clientes se realiza principalmente mediante llamadas, fotos o videos para informar sobre el estado del auto y solicitar autorizaciones. Considera que sus clientes confían en su servicio, evidenciado por la recomendación constante. Finalmente, muestra interés en una plataforma digital que le permita organizar mejor los trabajos, hacer seguimiento de mantenimientos y, especialmente, automatizar recordatorios para los clientes, lo que le ayudaría a optimizar tiempo y mejorar la gestión del taller.</p><br>
 
 
 
-**ENTREVISTA 2: Tecnico Independiente**
+**ENTREVISTA 2: Técnico Independiente**
     <li>Nombre: Gumercindo Ventura</li>
     <li>Edad: 55</li>
     <li>Residencia: Ayacucho, Huamanga - San Juan Bautista</li>
-    <li>Ocupacion: Tecnico Automotriz</li>
+    <li>Ocupación: Técnico Automotriz</li>
     <img src="assets/screenshot-interviews/SCS-T2.png" alt="csc-t1" style="width: 750px;">
      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQC3R-wNkI7tQZ07-wGLrqBvAUckZJvae4x3Gvydyx-kgVk?e=MSpswt" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/</a>
     <li>Inicio: 0:38</li>
-    <li>Duracion: 5:29</li>
+    <li>Duración: 5:29</li>
     <p align="justify">Resumen: El entrevistado Gurmecindo de 55 años con aproximadamente 35 años de experiencia, residente en San Juan Bautista, Ayacucho. Su trabajo se centra en la reparación de motores y mantenimiento general de vehículos. En su día a día, realiza diversas tareas mecánicas dependiendo de las fallas que presentan los autos. Actualmente, gestiona la información de sus clientes y vehículos de forma manual, utilizando cuadernos y actas de control donde registra datos como la hora de ingreso, la placa y el tipo de trabajo. En cuanto a la comunicación, suele llamar a los clientes cuando el vehículo está listo o también recibe llamadas de ellos para consultar el estado. Señala que sus clientes confían en su servicio debido a la garantía y puntualidad que ofrece, y sí mantiene un historial de trabajos de manera escrita. Frente a la propuesta de una plataforma digital, muestra una actitud positiva y considera que es necesaria en la actualidad para mejorar la gestión, destacando como funcionalidad importante la incorporación de herramientas como escáner automotriz para diagnosticar fallas electrónicas, lo que facilitaría y modernizaría su trabajo diario.</p><br>
 
 
-**ENTREVISTA 3: Tecnico Independiente**
+**ENTREVISTA 3: Técnico Independiente**
     <li>Nombre: Antenor Ayala</li>
     <li>Edad: 33</li>
     <li>Residencia: Ayacucho, Huamanga</li>
-    <li>Ocupacion: Tecnico Mecanico Automotriz</li>
+    <li>Ocupación: Técnico Mecánico Automotriz</li>
     <img src="assets/screenshot-interviews/SCS-T3.png" alt="csc-t1" style="width: 750px;">
     Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/IQCxbUZ3D94sQa4L_R0U-pTLAeS4IIX60VMV6GW0RGncMMA?e=mN7UdR" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d185_upc_edu_pe/</a>
     <li>Inicio: 0:25</li>
-    <li>Duracion: 9:11 </li>
+    <li>Duración: 9:11 </li>
     <p align="justify">Resumen: El entrevistado Antenor Ayala, un mecánico automotriz de 33 años residente en Huamanga, con aproximadamente 5 años de experiencia en el rubro. Describe que su trabajo diario varía entre resolver fallas simples y complejas, comenzando con la recepción del cliente y el diagnóstico del problema, el cual a veces difiere de lo que el cliente cree. Lleva el registro de los trabajos de forma manual en un cuaderno, lo que puede generar desorganización. Señala que uno de los principales problemas que enfrenta es la gestión de clientes, ya que existen diferentes tipos de comportamientos y expectativas, además de que reconoce que en ocasiones pueden ocurrir errores humanos debido al cansancio o problemas personales. En cuanto a la comunicación, indica que antes tenía dificultades por no informar adecuadamente los cambios realizados, lo que generaba desconfianza, pero ahora busca mejorar avisando previamente o mostrando evidencias como fotos o videos. También menciona que algunos clientes llaman con mucha frecuencia mientras que otros son más independientes. Finalmente, muestra una actitud muy positiva hacia la implementación de una plataforma digital, ya que considera que le ayudaría a organizar mejor sus tareas, mejorar la comunicación, aumentar la confianza con los clientes y gestionar aspectos como horarios, inventario e historial de trabajos, lo que optimizaría su desempeño diario.</p>
 
   
