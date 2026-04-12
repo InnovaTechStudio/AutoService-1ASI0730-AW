@@ -1030,7 +1030,18 @@ Se busca transformar esta percepción mediante transparencia y comunicación.</p
     <li>Duración: 9:11 </li>
     <p align="justify">Resumen: El entrevistado Antenor Ayala, un mecánico automotriz de 33 años residente en Huamanga, con aproximadamente 5 años de experiencia en el rubro. Describe que su trabajo diario varía entre resolver fallas simples y complejas, comenzando con la recepción del cliente y el diagnóstico del problema, el cual a veces difiere de lo que el cliente cree. Lleva el registro de los trabajos de forma manual en un cuaderno, lo que puede generar desorganización. Señala que uno de los principales problemas que enfrenta es la gestión de clientes, ya que existen diferentes tipos de comportamientos y expectativas, además de que reconoce que en ocasiones pueden ocurrir errores humanos debido al cansancio o problemas personales. En cuanto a la comunicación, indica que antes tenía dificultades por no informar adecuadamente los cambios realizados, lo que generaba desconfianza, pero ahora busca mejorar avisando previamente o mostrando evidencias como fotos o videos. También menciona que algunos clientes llaman con mucha frecuencia mientras que otros son más independientes. Finalmente, muestra una actitud muy positiva hacia la implementación de una plataforma digital, ya que considera que le ayudaría a organizar mejor sus tareas, mejorar la comunicación, aumentar la confianza con los clientes y gestionar aspectos como horarios, inventario e historial de trabajos, lo que optimizaría su desempeño diario.</p>
 
-  
+
+**ENTREVISTA 4: Administrador de Taller Automotriz**
+    <li>Nombre: Juan Calisaya</li>
+    <li>Edad: 30</li>
+    <li>Residencia: Santa Anita, Lima</li>
+    <li>Ocupación: Propietario y Administrador de Taller Automotriz</li>
+    <img src="assets/screenshot-interviews/SCS-A1.png" alt="csc-a1" style="width: 750px;">
+    Link: <a href="[#](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e299_upc_edu_pe/IQBuwdmTZaBDQ6FwqgTBqd_zAZXoZxFYUA9sZBDB-I4bGyw?e=WVr7u3)" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e299_upc_edu_pe/IQBuwdmTZaBDQ6FwqgTBqd_zAZXoZxFYUA9sZBDB-I4bGyw?e=WVr7u3</a>
+    <li>Inicio: 0:05</li>
+    <li>Duración: 13:57 </li>
+    <p align="justify">Resumen: El entrevistado Juan Elisaya, de 30 años, propietario de un taller automotriz en Santa Anita con más de 5 años de experiencia, gestiona su negocio junto a un equipo de 4 trabajadores. Maneja un volumen considerable de clientes, sin embargo, la organización del trabajo se realiza de forma manual mediante cuadernos y comunicación verbal, lo que genera desorden y dependencia directa del administrador para asignar tareas. El seguimiento de los vehículos se realiza consultando directamente a los mecánicos, lo que ocasiona retrasos y presión por parte de los clientes. La comunicación se da principalmente por llamadas y WhatsApp, pero resulta poco eficiente al no existir un sistema centralizado. A nivel administrativo, no cuentan con herramientas digitales para controlar ingresos, egresos ni inventario, lo que genera desbalances y falta de visibilidad del negocio. Además, la rotación de funciones entre trabajadores produce desorganización interna. El entrevistado muestra una actitud positiva hacia la implementación de un sistema digital que permita gestionar clientes, órdenes de trabajo, seguimiento en tiempo real, inventario y finanzas. Destaca la importancia de que este sistema sea fácil de usar, accesible desde celular o computadora y que mejore tanto la organización interna como la comunicación con los clientes.</p>
+
 
 #### 2.2.3. Análisis de entrevistas
 
