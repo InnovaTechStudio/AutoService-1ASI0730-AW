@@ -1043,6 +1043,19 @@ Se busca transformar esta percepción mediante transparencia y comunicación.</p
     <p align="justify">Resumen: El entrevistado Juan Elisaya, de 30 años, propietario de un taller automotriz en Santa Anita con más de 5 años de experiencia, gestiona su negocio junto a un equipo de 4 trabajadores. Maneja un volumen considerable de clientes, sin embargo, la organización del trabajo se realiza de forma manual mediante cuadernos y comunicación verbal, lo que genera desorden y dependencia directa del administrador para asignar tareas. El seguimiento de los vehículos se realiza consultando directamente a los mecánicos, lo que ocasiona retrasos y presión por parte de los clientes. La comunicación se da principalmente por llamadas y WhatsApp, pero resulta poco eficiente al no existir un sistema centralizado. A nivel administrativo, no cuentan con herramientas digitales para controlar ingresos, egresos ni inventario, lo que genera desbalances y falta de visibilidad del negocio. Además, la rotación de funciones entre trabajadores produce desorganización interna. El entrevistado muestra una actitud positiva hacia la implementación de un sistema digital que permita gestionar clientes, órdenes de trabajo, seguimiento en tiempo real, inventario y finanzas. Destaca la importancia de que este sistema sea fácil de usar, accesible desde celular o computadora y que mejore tanto la organización interna como la comunicación con los clientes.</p>
 
 
+**ENTREVISTA 5: Administrador y Encargado de Logística de Taller Automotriz**
+    <li>Nombre: Sebastián Rojas</li>
+    <li>Edad: 24</li>
+    <li>Residencia: Villa El Salvador, Lima</li>
+    <li>Ocupación: Administrador y Encargado de Logística de Taller Automotriz</li>
+    <img src="assets/screenshot-interviews/SCS-A2.png" alt="csc-a2" style="width: 750px;">
+    Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e299_upc_edu_pe/IQAn-6pC1Ur6TbGWsrSbHCfUATVeVUjKORt507XsjZzhAKU?e=zj8iCk" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e299_upc_edu_pe/IQAn-6pC1Ur6TbGWsrSbHCfUATVeVUjKORt507XsjZzhAKU?e=zj8iCk</a>
+    <li>Inicio: 0:04</li>
+    <li>Duración: 10:55 </li>
+    <p align="justify">Resumen: El entrevistado Sebastián Rojas, de 24 años, se desempeña como administrador y encargado de logística en un taller automotriz con un equipo de 6 personas, donde las funciones están distribuidas según especialidad. La gestión actual combina registros en papel y Excel, lo que permite cierto orden, pero resulta limitado ante el crecimiento del volumen de trabajo. Uno de los principales problemas es la falta de coordinación entre áreas, especialmente entre mecánicos y almacén, generando cuellos de botella y dependencia del administrador para validar procesos. El seguimiento de los vehículos se realiza mediante un pizarrón físico, pero al no actualizarse constantemente, se requiere comunicación directa frecuente, lo que reduce la eficiencia. La comunicación con los clientes se da principalmente por llamadas y WhatsApp, enviando ocasionalmente fotos, pero esto genera desconfianza cuando no hay claridad en los avances o cambios en los costos. Además, el control de ingresos e inventario es básico, lo que limita el análisis del rendimiento del negocio. El entrevistado muestra interés en implementar un sistema digital que permita gestionar órdenes de trabajo, controlar inventario, visualizar el estado de los vehículos en tiempo real y generar reportes, con el objetivo de mejorar la organización, optimizar el tiempo y aumentar la transparencia con los clientes.</p>
+
+
+
 #### 2.2.3. Análisis de entrevistas
 
 *Pendiente*
